@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\bin\Debug\netcoreapp2.0\SnakeLadderGame.deps.json
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\bin\Debug\netcoreapp2.0\SnakeLadderGame.runtimeconfig.json
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\bin\Debug\netcoreapp2.0\SnakeLadderGame.runtimeconfig.dev.json
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\bin\Debug\netcoreapp2.0\SnakeLadderGame.dll
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\bin\Debug\netcoreapp2.0\SnakeLadderGame.pdb
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\obj\Debug\netcoreapp2.0\SnakeLadderGame.csprojAssemblyReference.cache
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\obj\Debug\netcoreapp2.0\SnakeLadderGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\obj\Debug\netcoreapp2.0\SnakeLadderGame.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\obj\Debug\netcoreapp2.0\SnakeLadderGame.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\obj\Debug\netcoreapp2.0\SnakeLadderGame.dll
+C:\Users\Gabriel\Downloads\SnakesAndLadder-master\SnakesAndLadder-master\SnakeLadderGame\obj\Debug\netcoreapp2.0\SnakeLadderGame.pdb
